@@ -11,6 +11,7 @@ HOW TO USE
 1. - Run `$pyinitor`
 2. - Enter desired project/folder name
   ...vs code opens in created folder.
+
 FILES IN PROJECT FOLDER:
       1. `venv`
       2. `main.py`
