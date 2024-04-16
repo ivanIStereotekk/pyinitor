@@ -13,6 +13,7 @@ HOW TO USE
   ...vs code opens in created folder.
 
 FILES IN PROJECT FOLDER:
+
       1. `venv`
       2. `main.py`
       3. `requirements.txt`
