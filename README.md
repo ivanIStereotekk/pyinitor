@@ -10,8 +10,8 @@ HOW TO INSTALL:
 HOW TO USE
 1. - Run `$pyinitor`
 2. - Enter desired project/folder name
-  ...vs code opens in created folder:
-. files in folder:
+  ...vs code opens in created folder.
+#####files in folder:
       1. `venv`
       2. `main.py`
       3. `requirements.txt`
