@@ -17,6 +17,7 @@ FILES IN PROJECT FOLDER:
       1. `venv`
       2. `main.py`
       3. `requirements.txt`
+      4. `.dotenv`
 
       Notice: `venv` (virtual environment) - are activated with your default Python enterpreneur 
         
