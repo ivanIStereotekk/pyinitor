@@ -8,7 +8,7 @@ HOW TO INSTALL:
 8. - Now you are ready to run - `$pyinitor`.
 
 HOW TO USE
-1. - Run `$pyinitor`
+1. - Run `$pyinitor` in needed directory
 2. - Enter desired project/folder name
   ...vs code opens in created folder.
 
