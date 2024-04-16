@@ -5,6 +5,6 @@ echo Pyinitor creates project... $pname
 mkdir $pname && cd $pname
 python3 -m venv venv
 source venv/bin/activate
-touch main.py && touch requirements.txt
+touch main.py && touch requirements.txt && touch .env
 code main.py
 
